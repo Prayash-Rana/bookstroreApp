@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "story book",
+    "title": "lorem 30 bangladesh india srilamka",
+    "price": 0,
+    "category": "free",
+    "image": "https://img.freepik.com/free-vector/professional-business-book-cover_23-2149490317.jpg?t=st=1717693266~exp=1717696866~hmac=258124dfd64465a6d0fdba25da1b9a67f5cda7d0ad171817e719d752ef2c2592&w=740"
+  },
+  {
+    "id": 2,
+    "name": "Comedy book",
+    "title": "lorem 30 bangladesh india srilamka",
+    "price": 20,
+    "category": "free",
+    "image": "https://img.freepik.com/premium-psd/creative-april-fools-day-poster-design_546445-8546.jpg?w=360"
+  },
+  {
+    "id": 3,
+    "name": "Motivation book",
+    "title": "lorem 30 bangladesh india srilamka",
+    "price": 30,
+    "category": "Motivation",
+    "image": "https://img.freepik.com/premium-vector/inspiring-motivation-quote-with-text-think-positive-be-positive_958026-114.jpg?w=360"
+  },
+  {
+    "id": 4,
+    "name": "Medicine book",
+    "title": "lorem 30 bangladesh india srilamka",
+    "price": 40,
+    "category": "Medicine",
+    "image": "https://img.freepik.com/free-vector/medical-certificate_23-2148824280.jpg?t=st=1717693555~exp=1717697155~hmac=ff84755368ac96e27ea02847d32be3b36d09c5c015a0b5b6bb0e6265fc93ebd9&w=740"
+  },
+  {
+    "id": 5,
+    "name": "Non-fiction book",
+    "title": "lorem 30 bangladesh india srilamka",
+    "price": 40,
+    "category": "free",
+    "image": "https://img.freepik.com/free-psd/reading-concept-flyer-template_23-2148577874.jpg?t=st=1717693645~exp=1717697245~hmac=b715ab50a57653667336b67234063f2ad1ac474b81a497737a7d3e534304befd&w=740"
+  },
+  {
+    "id": 6,
+    "name": "story book",
+    "title": "lorem 30 bangladesh india srilamka",
+    "price": 0,
+    "category": "free",
+    "image": "https://img.freepik.com/free-vector/professional-business-book-cover_23-2149490317.jpg?t=st=1717693266~exp=1717696866~hmac=258124dfd64465a6d0fdba25da1b9a67f5cda7d0ad171817e719d752ef2c2592&w=740"
+  },
+  {
+    "id": 7,
+    "name": "Non-fiction book",
+    "title": "lorem 30 bangladesh india srilamka",
+    "price": 40,
+    "category": "free",
+    "image": "https://img.freepik.com/free-psd/reading-concept-flyer-template_23-2148577874.jpg?t=st=1717693645~exp=1717697245~hmac=b715ab50a57653667336b67234063f2ad1ac474b81a497737a7d3e534304befd&w=740"
+  }
+]
